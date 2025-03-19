@@ -1,0 +1,13 @@
+# Ignore node_modules and dependencies
+node_modules/
+package-lock.json
+
+# Ignore environment files
+
+
+# Ignore build outputs
+dist/
+out/
+
+# Ignore log files
+*.log
